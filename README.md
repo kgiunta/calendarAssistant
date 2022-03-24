@@ -24,6 +24,8 @@ Please see the links below to access:
 
 https://github.com/kgiunta/calendarAssistant
 
+https://kgiunta.github.io/calendarAssistant/
+
 ![Screenshot of a calendar application](./Screenshot.png)
 
 ## Credits
